@@ -1,0 +1,42 @@
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    background-color: bisque;
+    color: crimson;
+}
+h1 {
+    font-family: HeartBubble;
+}
+p {
+    font-family: 'Heart';
+}
+@font-face {
+    font-family: 'Bubble';
+    src: url(fonts/KawaiiBubble-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; 
+}
+@font-face {
+    font-family: 'HeartBubble';
+    src: url(fonts/Sweetbliss\ Personal\ Use.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; 
+}
+@font-face {
+    font-family: 'KawaiiCursive';
+    src: url(fonts/Pinky\ Bloom.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; 
+}
+@font-face {
+    font-family: 'Heart';
+    src: url(fonts/MGF-PinlockPersonalUse.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; 
+}
